@@ -1,4 +1,4 @@
-# Siddharth8800
+# Siddharth
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Siddharth8800)](https://github.com/Siddharth8800)
 
