@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth8800&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth8800" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth8800" alt="siddharth8800" /></a> </p>
 
 - 🌱 I’m currently learning **IBM Qiskit SDK**
 
